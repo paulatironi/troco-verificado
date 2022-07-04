@@ -1,4 +1,4 @@
-Algoritmo "notas"
+Algoritmo "troco verificado"
 
 Var
 
